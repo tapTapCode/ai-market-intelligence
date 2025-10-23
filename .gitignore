@@ -7,6 +7,8 @@ __pycache__/
 env/
 venv/
 ENV/
+env.bak/
+venv.bak/
 build/
 develop-eggs/
 dist/
@@ -19,9 +21,13 @@ parts/
 sdist/
 var/
 wheels/
+pip-wheel-metadata/
+share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+PIPFILE.lock
+*.pyc
 
 # Node
 node_modules/
@@ -58,6 +64,10 @@ docker-compose.override.yml
 *.db
 *.sqlite
 *.sqlite3
+data/
+mongodb_data/
+*.bson
+*.lock
 
 # Logs
 logs/
@@ -73,3 +83,20 @@ coverage/
 .cache/
 .temp/
 tmp/
+*.bak
+*.swp
+*.swo
+
+# API Keys & Secrets (double-check)
+*.pem
+*.key
+*.cert
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Vector DB
+pinecone_cache/
+faiss_index/
+*.index
