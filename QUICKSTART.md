@@ -1,8 +1,8 @@
-# Quick Start Guide 🚀
+# Quick Start Guide
 
-Get the AI Market Intelligence Dashboard running in **5 minutes**!
+Get the AI Market Intelligence Dashboard running in 5 minutes.
 
-## 📋 What You'll Need
+## What You'll Need
 
 1. **API Keys** (Get these first):
    - [OpenAI API Key](https://platform.openai.com/api-keys) - $5 minimum credit
@@ -13,7 +13,7 @@ Get the AI Market Intelligence Dashboard running in **5 minutes**!
    - Python 3.11+
    - MongoDB (or use Docker)
 
-## ⚡ Option 1: Docker (Recommended)
+## Option 1: Docker (Recommended)
 
 ```bash
 # 1. Clone and navigate
@@ -31,7 +31,7 @@ docker-compose up --build
 # Done! Visit http://localhost:3000
 ```
 
-## 💻 Option 2: Local Development
+## Option 2: Local Development
 
 ```bash
 # 1. Navigate to project
@@ -58,7 +58,7 @@ npm run dev
 # Visit http://localhost:3000
 ```
 
-## 🎯 First Steps
+## First Steps
 
 ### 1. Try SWOT Analysis
 - Click **"SWOT Analysis"** tab
@@ -72,7 +72,7 @@ npm run dev
 - Time period: **Q1 2024**
 - Click **"Analyze Trends"**
 
-## 📊 Add Sample Data (Optional)
+## Add Sample Data (Optional)
 
 ```bash
 cd backend
@@ -82,7 +82,7 @@ python ../scripts/seed_data.py
 
 This adds 5 sample articles about clean tech and EVs.
 
-## 🔧 Troubleshooting
+## Troubleshooting
 
 ### "Connection refused" error
 - Check if MongoDB is running: `docker ps`
@@ -101,29 +101,29 @@ lsof -ti:8000 | xargs kill -9
 lsof -ti:3000 | xargs kill -9
 ```
 
-## 📚 Next Steps
+## Next Steps
 
 - **Read full docs**: `docs/GETTING_STARTED.md`
 - **Understand architecture**: `docs/ARCHITECTURE.md`
 - **API docs**: http://localhost:8000/docs
 
-## 🎓 What You Built
+## What You Built
 
-✅ Full-stack AI application  
-✅ LLM integration (GPT-4)  
-✅ RAG with vector database  
-✅ Modern frontend (Next.js)  
-✅ RESTful API (FastAPI)  
-✅ Docker deployment  
-✅ Production-ready structure  
+Full-stack AI application with:
+- LLM integration (GPT-4)
+- RAG with vector database
+- Modern frontend (Next.js)
+- RESTful API (FastAPI)
+- Docker deployment
+- Production-ready structure
 
-Perfect for your **Enki.ai portfolio**! 🎉
+Perfect for your Enki.ai portfolio!
 
-## 🚀 Push to GitHub
+## Push to GitHub
 
 ```bash
 # Create repo on GitHub, then:
-git remote add origin https://github.com/YOUR_USERNAME/ai-market-intelligence.git
+git remote add origin https://github.com/tapTapCode/ai-market-intelligence.git
 git branch -M main
 git push -u origin main
 ```

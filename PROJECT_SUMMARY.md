@@ -2,7 +2,7 @@
 
 **Built for Enki.ai Application Portfolio**
 
-## 🎯 Project Overview
+## Project Overview
 
 A production-ready AI-powered market intelligence platform that demonstrates:
 - Full-stack development expertise
@@ -11,7 +11,7 @@ A production-ready AI-powered market intelligence platform that demonstrates:
 - Modern web technologies
 - DevOps and deployment readiness
 
-## 📊 Technical Highlights
+## Technical Highlights
 
 ### Backend (FastAPI + Python)
 - **LLM Integration**: OpenAI GPT-4 with structured JSON outputs
@@ -33,7 +33,7 @@ A production-ready AI-powered market intelligence platform that demonstrates:
 - **Database**: MongoDB for documents, Pinecone for vectors
 - **Documentation**: Comprehensive setup and architecture guides
 
-## 🚀 Key Features
+## Key Features
 
 ### 1. SWOT Analysis Generator
 - Input: Company name, industry
@@ -56,7 +56,7 @@ A production-ready AI-powered market intelligence platform that demonstrates:
 - Metadata-filtered search
 - Industry/category organization
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ai-market-intelligence/
@@ -81,53 +81,53 @@ ai-market-intelligence/
 └── README.md
 ```
 
-## 💼 Skills Demonstrated
+## Skills Demonstrated
 
 ### For Enki.ai Position
 
-**LLM Integration** ✅
+**LLM Integration**
 - Prompt engineering for structured outputs
 - SWOT and trend analysis pipelines
 - Embedding generation
 - Context optimization
 
-**RAG Implementation** ✅
+**RAG Implementation**
 - Vector database setup
 - Semantic search
 - Metadata filtering
 - Context retrieval
 
-**Backend Development** ✅
+**Backend Development**
 - FastAPI REST APIs
 - Async Python
 - MongoDB integration
 - Task queue ready (BullMQ/Celery patterns)
 
-**Frontend Development** ✅
+**Frontend Development**
 - Next.js with TypeScript
 - React components
 - Data visualization
 - API integration
 
-**Database Experience** ✅
+**Database Experience**
 - MongoDB (document store)
 - Pinecone (vector DB)
 - Elasticsearch patterns ready
 - Data modeling
 
-**DevOps & Deployment** ✅
+**DevOps & Deployment**
 - Docker containerization
 - Multi-service orchestration
 - Environment configuration
 - Production-ready structure
 
-**Bonus Skills** ✅
+**Bonus Skills**
 - Documentation writing
 - Code organization
 - Error handling
 - Security best practices
 
-## 📈 Scalability & Production Readiness
+## Scalability & Production Readiness
 
 ### Current Implementation
 - Async operations throughout
@@ -143,7 +143,7 @@ ai-market-intelligence/
 - CI/CD pipeline (GitHub Actions)
 - Cloud deployment (AWS/GCP)
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 
 Through building this project, you've gained hands-on experience with:
 
@@ -168,7 +168,7 @@ Through building this project, you've gained hands-on experience with:
    - Documentation
    - Type safety
 
-## 📊 Project Statistics
+## Project Statistics
 
 - **Source Files**: 24 (Python, TypeScript, TSX)
 - **Backend Endpoints**: 7 RESTful APIs
@@ -178,12 +178,12 @@ Through building this project, you've gained hands-on experience with:
 - **Documentation Pages**: 4
 - **Lines of Code**: ~2,000 (excluding dependencies)
 
-## 🚀 Next Steps
+## Next Steps
 
 ### For Your Portfolio
 1. **Push to GitHub**
    ```bash
-   git remote add origin https://github.com/YOUR_USERNAME/ai-market-intelligence.git
+   git remote add origin https://github.com/tapTapCode/ai-market-intelligence.git
    git branch -M main
    git push -u origin main
    ```
@@ -210,16 +210,16 @@ Through building this project, you've gained hands-on experience with:
 
 **This project demonstrates:**
 
-✅ **Required Skills**
-- Node.js, Python, React, Next.js ✓
-- MongoDB, Vector databases ✓
-- LLM APIs, RAG workflows ✓
-- Docker, Cloud deployment patterns ✓
+**Required Skills**
+- Node.js, Python, React, Next.js
+- MongoDB, Vector databases
+- LLM APIs, RAG workflows
+- Docker, Cloud deployment patterns
 
-✅ **Bonus Skills**
-- AI coding assistants (built with AI assistance) ✓
-- Workflow automation patterns ready ✓
-- SEO-ready architecture (Next.js SSR) ✓
+**Bonus Skills**
+- AI coding assistants (built with AI assistance)
+- Workflow automation patterns ready
+- SEO-ready architecture (Next.js SSR)
 
 **Project Highlights for Application:**
 - Built in ~2 hours (shows efficiency)
@@ -228,7 +228,7 @@ Through building this project, you've gained hands-on experience with:
 - Demonstrates learning ability
 - Directly relevant to Enki's needs
 
-## 📝 How to Present This Project
+## How to Present This Project
 
 ### On Resume
 ```
@@ -243,7 +243,7 @@ Tech: Python, FastAPI, Next.js, TypeScript, OpenAI API, Pinecone, MongoDB, Docke
 ### In Interview
 "I built an AI-powered market intelligence dashboard that demonstrates my ability to integrate LLMs with production applications. It uses GPT-4 for analysis, Pinecone for RAG-based context retrieval, and features a modern Next.js frontend. The entire stack is containerized and production-ready."
 
-## 🎉 Congratulations!
+## Congratulations!
 
 You've built a **portfolio-quality project** that:
 - Aligns perfectly with Enki.ai's requirements
@@ -251,4 +251,4 @@ You've built a **portfolio-quality project** that:
 - Shows production engineering skills
 - Proves you can ship complete solutions
 
-**Ready to apply to Enki.ai with confidence!** 🚀
+Ready to apply to Enki.ai with confidence!

@@ -16,7 +16,7 @@ The easiest way to run the entire stack:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/ai-market-intelligence.git
+git clone https://github.com/tapTapCode/ai-market-intelligence.git
 cd ai-market-intelligence
 
 # 2. Set up environment variables
@@ -214,5 +214,5 @@ lsof -ti:3000 | xargs kill -9
 
 ## Support
 
-- **GitHub Issues**: [Report bugs](https://github.com/YOUR_USERNAME/ai-market-intelligence/issues)
-- **Documentation**: [Full docs](https://github.com/YOUR_USERNAME/ai-market-intelligence/tree/main/docs)
+- **GitHub Issues**: [Report bugs](https://github.com/tapTapCode/ai-market-intelligence/issues)
+- **Documentation**: [Full docs](https://github.com/tapTapCode/ai-market-intelligence/tree/main/docs)

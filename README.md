@@ -2,16 +2,16 @@
 
 An AI-powered market intelligence platform that analyzes industry trends, generates SWOT analyses, and provides actionable insights using Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG).
 
-## 🚀 Features
+## Features
 
-- **📊 Interactive Dashboard**: Real-time data visualization with trends and insights
-- **🤖 AI-Powered Analysis**: LLM-driven SWOT analysis and market trend detection
-- **🔍 Semantic Search**: RAG-based document search using vector embeddings
-- **📈 Data Visualization**: Beautiful charts and graphs using Recharts
-- **📄 Report Generation**: Export insights as PDF reports
-- **🔐 Secure API**: RESTful API with authentication and rate limiting
+- **Interactive Dashboard**: Real-time data visualization with trends and insights
+- **AI-Powered Analysis**: LLM-driven SWOT analysis and market trend detection
+- **Semantic Search**: RAG-based document search using vector embeddings
+- **Data Visualization**: Beautiful charts and graphs using Recharts
+- **Report Generation**: Export insights as PDF reports
+- **Secure API**: RESTful API with authentication and rate limiting
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 ai-market-intelligence/
@@ -35,7 +35,7 @@ ai-market-intelligence/
 └── docker-compose.yml
 ```
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 - **FastAPI**: High-performance Python web framework
@@ -51,7 +51,7 @@ ai-market-intelligence/
 - **Tailwind CSS**: Utility-first styling
 - **Axios**: API client
 
-## 📦 Installation
+## Installation
 
 ### Prerequisites
 - Node.js 18+ and npm/yarn
@@ -65,7 +65,7 @@ ai-market-intelligence/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-market-intelligence.git
+git clone https://github.com/tapTapCode/ai-market-intelligence.git
 cd ai-market-intelligence
 ```
 
@@ -100,7 +100,7 @@ Access the application:
 - Backend API: http://localhost:8000
 - API Docs: http://localhost:8000/docs
 
-## 🔑 Environment Variables
+## Environment Variables
 
 ### Backend (.env)
 ```env
@@ -117,7 +117,7 @@ SECRET_KEY=your_secret_key
 NEXT_PUBLIC_API_URL=http://localhost:8000
 ```
 
-## 📖 API Documentation
+## API Documentation
 
 Once running, visit `/docs` for interactive API documentation (Swagger UI).
 
@@ -129,14 +129,14 @@ Once running, visit `/docs` for interactive API documentation (Swagger UI).
 - `GET /api/reports/{id}` - Retrieve analysis report
 - `POST /api/documents/ingest` - Ingest new documents
 
-## 🎯 Use Cases
+## Use Cases
 
 - **Market Research**: Analyze competitor strategies and market trends
 - **Investment Analysis**: Generate insights for investment decisions
 - **Strategic Planning**: Create SWOT analyses for business planning
 - **Trend Detection**: Identify emerging patterns in industry data
 
-## 🧪 Testing
+## Testing
 
 ```bash
 # Backend tests
@@ -148,24 +148,24 @@ cd frontend
 npm test
 ```
 
-## 🚢 Deployment
+## Deployment
 
 Deploy to cloud platforms:
 - **Backend**: AWS Lambda, Google Cloud Run, Railway
 - **Frontend**: Vercel, Netlify, AWS Amplify
 - **Database**: MongoDB Atlas, AWS DocumentDB
 
-## 📝 License
+## License
 
 MIT License
 
-## 👨‍💻 Author
+## Author
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
+**Jumar Juaton**
+- GitHub: [@tapTapCode](https://github.com/tapTapCode)
+- Portfolio: [AI Market Intelligence Dashboard](https://github.com/tapTapCode/ai-market-intelligence)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 Built as a portfolio project demonstrating:
 - LLM integration and prompt engineering
